@@ -1,10 +1,12 @@
 # Merriam-Webster
 
-#### An Unofficial Merriam-Webster Client on Mac OS X and Linux Build with [Electron](https://github.com/atom/electron)
+#### An Unofficial Merriam-Webster Client Build with [Electron](https://github.com/atom/electron)
 
-This app is still under development.Only tested on Mac OS.Feedback welcomed :smile:
+This app is still under development.Only tested on Mac OS.
 
-![mw-image 1/2](https://raw.githubusercontent.com/DawnyWu/Merriam-Webster/master/blob/dictionary.png)
+Feedback welcomed! :smile:
+
+![mw-image 1/2](https://raw.githubusercontent.com/DawnyWu/Merriam-Webster/master/blob/show.png)
 
 ## How To Use
 
