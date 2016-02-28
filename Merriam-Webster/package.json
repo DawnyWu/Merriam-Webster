@@ -1,0 +1,37 @@
+{
+  "name": "Merriam-Webster",
+  "version": "0.1.0",
+  "description": "An unofficial Merriam-Webster client",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron src/main.js",
+  "build": "./scripts/build-all.sh",
+  "build:osx": "./scripts/build.sh darwin x64",
+  "build:osx64": "./scripts/build.sh darwin x64",
+  "build:linux32": "./scripts/build.sh linux ia32",
+  "build:linux": "./scripts/build.sh linux x64",
+  "build:linux64": "./scripts/build.sh linux x64",
+  "build:win": "./scripts/build.sh win32 ia32",
+  "build:win32": "./scripts/build.sh win32 ia32"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DawnyWu/Merriam-Webster"
+  },
+  "keywords": [
+    "Electron",
+    "Merriam-Webster",
+    "dictionary",
+    "Web"
+  ],
+  "author": "DawnyWu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DawnyWu/Merriam-Webster/issues"
+  },
+  "homepage": "https://github.com/DawnyWu/Merriam-Webster",
+  "dependencies": {
+    "electron-prebuilt": "^0.36.0",
+    "electron-packager": "^5.2.1"
+  }
+}
