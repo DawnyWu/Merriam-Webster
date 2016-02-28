@@ -1,6 +1,6 @@
 # Merriam-Webster
 
-#### An Unofficial Merriam-Webster Client Build with [Electron](https://github.com/atom/electron)
+#### Unofficial Merriam-Webster Client Build with [Electron](https://github.com/atom/electron)
 
 This app is still under development.Only tested on Mac OS.
 
